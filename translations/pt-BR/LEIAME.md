@@ -47,7 +47,7 @@ Se um algoritmo determinístico que preveja perfeitamente um fenômeno quântico
 *   **Avanços Tecnológicos:** A compreensão do algoritmo subjacente poderia potencialmente levar a novas tecnologias, embora isso seja altamente especulativo.
 *   **Ramificações Filosóficas:** Mudaria a nossa percepção sobre a realidade.
 
-## Como Contribuir (Opcional)
+## Como Contribuir
 
 Este projeto está aberto à colaboração e contribuições de qualquer pessoa interessada. Aqui estão algumas maneiras de se envolver:
 
