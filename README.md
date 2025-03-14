@@ -1,4 +1,4 @@
-**Introduction**
+# About
 
 My name is Phillipe Ramalho, a computer scientist and independent thinker. This repository presents a novel hypothesis regarding the fundamental nature of reality, stemming from a long-standing interest in the unification of General Relativity (GR) and Quantum Mechanics (QM).
 
@@ -53,7 +53,7 @@ This project is open to collaboration and contributions from anyone interested. 
 *   **Theoretical Analysis:** Contribute to the theoretical framework, exploring the implications of the hypothesis and refining the proposed test.
 *   **Experimental Data:** Provide access to or analysis of relevant experimental data.
 *   **Code Review:** Review and improve the code in the `tests` folder.
-*   **Discussion:** Participate in discussions on the [GitHub Discussions](link to discussions if you enable them) forum.
+*   **Discussion:** Participate in discussions on the [GitHub Discussions](https://github.com/futugora/reality-q/discussions) forum.
 * **Submit a Pull Request**
 
 Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file (to be created) for more detailed guidelines.
