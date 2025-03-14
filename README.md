@@ -69,3 +69,9 @@ This project's documentation is also available in the following languages:
 ## License
 
 This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you use this project in your research, please cite it as:
+
+[![DOI](https://zenodo.org/badge/948290718.svg)](https://doi.org/10.5281/zenodo.15023945)
