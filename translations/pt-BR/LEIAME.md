@@ -63,3 +63,9 @@ Consulte o arquivo [CONTRIBUTING.md](translations/pt-BR/CONTRIBUTING.md) para ob
 ## Licença
 
 Este projeto é licenciado sob a GNU Affero General Public License v3.0 - consulte o arquivo [LICENSE](translations/pt-BR/LICENSE) para obter detalhes.
+
+## Citação
+
+Se você usar este projeto em sua pesquisa, por favor cite-o como:
+
+[![DOI](https://zenodo.org/badge/948290718.svg)](https://doi.org/10.5281/zenodo.15023945)
