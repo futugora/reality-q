@@ -58,6 +58,14 @@ This project is open to collaboration and contributions from anyone interested. 
 
 Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file (to be created) for more detailed guidelines.
 
+## Translations
+
+This project's documentation is also available in the following languages:
+
+*   **Brazilian Portuguese:** [translations/pt-BR](translations/pt-BR)
+
+*Please note that some translations are currently AI-generated and may contain inaccuracies. We welcome contributions from native speakers to add, review and improve the translations.*
+
 ## License
 
 This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
