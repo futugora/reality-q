@@ -1,6 +1,6 @@
 # About
 
-My name is Phillipe Ramalho, a computer scientist and independent thinker. This repository presents a novel hypothesis regarding the fundamental nature of reality, stemming from a long-standing interest in the unification of General Relativity (GR) and Quantum Mechanics (QM).
+I am Phillipe Ramalho, a computer scientist and independent thinker. This repository presents a novel hypothesis regarding the fundamental nature of reality, stemming from a long-standing interest in the unification of General Relativity (GR) and Quantum Mechanics (QM).
 
 One of the greatest challenges in modern physics is reconciling the deterministic nature of GR, which describes gravity and the large-scale structure of the universe, with the probabilistic nature of QM, which governs the behavior of matter and energy at the atomic and subatomic level. This incompatibility suggests a fundamental gap in our understanding.
 
